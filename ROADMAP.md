@@ -6,6 +6,10 @@ Second auction for artist series
 
 Staker v2 and Series 2 0xmons
 
+Community design contest
+
+Pillheads collab
+
 Consider bringing on NN and DL
 
 Conditional unlock / maybe also options platform

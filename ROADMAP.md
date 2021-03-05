@@ -1,6 +1,6 @@
 # Roadmap
 
-Release multisender/locker tool
+Release multisender/locker tool [X]
 
 Second auction for artist series
 
@@ -20,6 +20,10 @@ Secret Project 1 finishes
 
 Look into 0x for flexible asset marketplace / p2p multi-asset bundle trading
 
+Limit orders for an entire asset class
+
+citadel.sexy
+
 Data science experiments on 0xmons / exploring the NFTs
 
 GAN tutorial for 0xmons
@@ -30,5 +34,5 @@ redacted.finance
 
 Sound-based project (Groovy collab)
 
-Think about more NFTs
+Think about more NFTs to make
 

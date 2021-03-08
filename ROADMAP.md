@@ -2,7 +2,7 @@
 
 Release multisender/locker tool [X]
 
-Second auction for artist series
+Second auction for artist series [X]
 
 Staker v2 and Series 2 0xmons
 
@@ -10,13 +10,19 @@ Community design contest
 
 Pillheads collab
 
+LotteryDrop
+
+StupidStable
+
+0xChain
+
 Consider bringing on NN and DL
 
 Conditional unlock / maybe also options platform
 
 Series 3 0xmons
 
-Secret Project 1 finishes
+Secret Project 1 finishes (Final DOOM)
 
 Look into 0x for flexible asset marketplace / p2p multi-asset bundle trading
 
@@ -28,7 +34,7 @@ Data science experiments on 0xmons / exploring the NFTs
 
 GAN tutorial for 0xmons
 
-DL's gallery app
+DL's gallery/0xmonDex app
 
 redacted.finance
 

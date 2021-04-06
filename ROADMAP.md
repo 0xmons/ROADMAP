@@ -4,7 +4,7 @@ Release multisender/locker tool [X]
 
 Second auction for artist series [X]
 
-Staker v2 and Series 2 0xmons
+Staker v2 and Series 2 0xmons [X]
 
 Community design contest
 

@@ -6,9 +6,15 @@ Second auction for artist series [X]
 
 Staker v2 and Series 2 0xmons [X]
 
-Community design contest
+Community design contest [x]
 
-Pillheads collab
+Look into 0x for flexible asset marketplace / p2p multi-asset bundle trading [x]
+
+Pillheads collab [in progress]
+
+Conditional unlock / maybe also options platform [in progress]
+
+Secret Project 1 finishes (Final DOOM) [in progress]
 
 LotteryDrop
 
@@ -18,15 +24,9 @@ StupidStable
 
 Consider bringing on NN and DL
 
-Conditional unlock / maybe also options platform
-
 Series 3 0xmons
 
-Secret Project 1 finishes (Final DOOM)
-
-Look into 0x for flexible asset marketplace / p2p multi-asset bundle trading
-
-Limit orders for an entire asset class
+Limit orders for an entire asset class [buythefloor already exists now]
 
 citadel.sexy
 
@@ -41,4 +41,3 @@ redacted.finance
 Sound-based project (Groovy collab)
 
 Think about more NFTs to make
-
